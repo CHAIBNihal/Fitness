@@ -333,7 +333,11 @@ ol {
 	padding-top: 20px;
 	z-index: 99;
 }
-
+.header-parag{
+	color: #cd67ef;
+	font-size: 46px;
+	font-weight: 800;
+}
 .logo a {
 	display: inline-block;
 }
@@ -712,7 +716,7 @@ ol {
 	font: bold;
 }
 .banner-section {
-	height: 890px;
+	height: 800px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	background-color: #000;
@@ -729,7 +733,7 @@ ol {
 }
 
 .bs-text h4 {
-	font-size: 48px;
+	font-size: 35px;
 	color: #edca67;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -890,6 +894,18 @@ ol {
 .gallery-section {
 	background: #151515;
 	overflow: hidden;
+}
+.text-gallery{
+	text-align: center;
+	color: #cd67cd;
+	font-size : 27px;
+
+}
+.gallery-parag {
+	text-align: center;
+	color: #ffff;
+	padding: 15px 0;
+
 }
 
 .gallery-section.gallery-page {
@@ -1092,7 +1108,15 @@ ol {
 	float: left;
 	margin-right: 20px;
 }
-
+.icon-label a{
+	color: #ffff;
+	padding-top: 20px;
+	text-decoration: none;
+	font-weight: 800;
+}
+.gt-text p{
+	color: white;
+}
 .gt-text p {
 	overflow: hidden;
 	color: #ffffff;
