@@ -1157,6 +1157,30 @@ ol {
 .gt-text.email p {
 	padding-top: 20px;
 }
+/*----------------------
+  Planning
+-----------------------*/
+#planing {
+	background-color: #000;
+	padding: 5px;
+	padding-bottom: 17px;
+}
+.planning-title {
+    color: #edca67;
+    font-size: 32px;
+	margin-top: 12px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.planning-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
 
 /*---------------------
   Footer
